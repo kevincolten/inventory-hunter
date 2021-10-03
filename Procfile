@@ -1,1 +1,1 @@
-web: ./init.bash
+web: ./src/init.bash
